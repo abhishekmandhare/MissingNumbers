@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MissingNumbers": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
